@@ -1,0 +1,57 @@
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.exe.config
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.exe
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.pdb
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.menu_generale.resources
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.Properties.Resources.resources
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.exe
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.pdb
+C:\Users\User\Desktop\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.gestion_medicament.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.exe.config
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.exe
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.pdb
+D:\Prog C#\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.exe
+D:\Prog C#\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.pdb
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.csprojResolveAssemblyReference.cache
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.gestion_medicament.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.gestion_stock.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.gestion_vente.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.menu_generale.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.Properties.Resources.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.csproj.GenerateResource.Cache
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.enreg_medicament.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\bin\Debug\MySql.Data.dll
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.rechercher_medicament.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.supprimer_medicament.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.augmenter_stock_medicament.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.stock_disponible.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.Authentification.resources
+D:\Prog C#\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.AppGeneral.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.exe.config
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.exe
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.pdb
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.exe
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.pdb
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\bin\Debug\MySql.Data.dll
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.csprojResolveAssemblyReference.cache
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.AppGeneral.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.augmenter_stock_medicament.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.Authentification.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.enreg_medicament.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.gestion_medicament.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.gestion_stock.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.gestion_vente.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.menu_generale.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.Properties.Resources.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.rechercher_medicament.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.stock_disponible.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.supprimer_medicament.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.Vendre_medicament.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.csproj.GenerateResource.Cache
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.Historique_medicament.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.AjoutUtilisateur.resources
+D:\PROJET_UGANC\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.LoginAdmin.resources
+D:\Doc DIAKITE\PROJET_UGANC\GestionPharmacie\GestionPharmacie\GestionPharmacie\bin\Debug\GestionPharmacie.exe.config
+D:\Doc DIAKITE\PROJET_UGANC\GestionPharmacie\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.exe
+D:\Doc DIAKITE\PROJET_UGANC\GestionPharmacie\GestionPharmacie\GestionPharmacie\obj\Debug\GestionPharmacie.pdb
